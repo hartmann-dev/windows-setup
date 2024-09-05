@@ -1,3 +1,3 @@
 ### Source
- - Config: https://dev.to/gmkonan/customizing-git-bash-in-windows-2al3
+ - Config: https://dev.to/blikoor/customize-git-bash-shell-498l
  - Colors: https://dev.to/ifenna__/adding-colors-to-bash-scripts-48g4
